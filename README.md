@@ -1,7 +1,7 @@
 # Hi, I'm ShuraNix! 👾
 
 I am an 18 year old developer passionate about pixel art, game design and web development.  
-Currently studying programming, working on personal projects, and open for commissions!
+Currently studying programming, working on personal projects, and open for commissions! <br>
 When I'm not coding, you'll find me at the gym or playing Hollow Knight.
 
 <p align="center">
