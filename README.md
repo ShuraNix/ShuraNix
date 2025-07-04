@@ -22,7 +22,7 @@ I like working out and Hollow Knight when I'm not coding.
 
 ## 🎮 My Projects
 
-- **[Finance Tracker](https://github.com/ShuraNix/fitness-tracker)** - Web app that logs income and expenses
+- **[Finance Tracker](https://github.com/ShuraNix/Finance-tracker-app)** - Web app that logs income and expenses
 
 <!-- - **[HK Mod](https://github.com/ShuraNix/hk-mod)** - Hollow Knight custom boss
 - **[Pixel Portfolio](https://shura-pixels.netlify.app)** - Gallery of my art -->
