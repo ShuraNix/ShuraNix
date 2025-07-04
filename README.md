@@ -29,5 +29,5 @@ I like working out and Hollow Knight when I'm not coding.
 
 ## 📫 Contact Me
 
-✉️ **Email**: ghalebalmustafa123@gmail.com <br>
-🎮 **Discord**: purenix
+**Email**: ghalebalmustafa123@gmail.com <br>
+**Discord**: purenix
