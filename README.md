@@ -2,7 +2,7 @@
 
 I am an 18 year old developer passionate about pixel art, game design and web development.  
 Currently studying programming, working on personal projects, and open for commissions! <br>
-When I'm not coding, you'll find me at the gym or playing Hollow Knight.
+I like working out and Hollow Knight when I'm not coding.
 
 <p align="center">
   <img src="/assets/HKandH.gif" width="300" alt="Hollow Knight pixel art">
@@ -11,7 +11,13 @@ When I'm not coding, you'll find me at the gym or playing Hollow Knight.
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,unity,mongodb,git,vscode&perline=5">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,unity" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,git,docker" />
 </p>
 
 ## 🎮 My Projects
@@ -23,5 +29,5 @@ When I'm not coding, you'll find me at the gym or playing Hollow Knight.
 
 ## 📫 Contact Me
 
-✉️ **Email**: ghalebalmustafa123@gmail.com
+✉️ **Email**: ghalebalmustafa123@gmail.com <br>
 🎮 **Discord**: purenix
