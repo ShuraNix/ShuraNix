@@ -1,9 +1,9 @@
 # Hi, I'm Ghaleb Almustafa!
 
-**18-year-old developer** passionate about pixel art, game design, and web development.  
+<p align="center">**18-year-old developer** passionate about pixel art, game design, and web development.  
 Currently improving my skills through projects and open for commissions!  
 I like working out and playing Hollow Knight.
-
+</p>
 <p align="center">
   <img src="/assets/HKandH.gif" width="300" alt="Hollow Knight pixel art">
 </p>
@@ -29,10 +29,10 @@ I like working out and playing Hollow Knight.
 
 <div align="center">
 
-| Project                                                                | Description                                | Technologies              |
-| ---------------------------------------------------------------------- | ------------------------------------------ | ------------------------- |
-| **[Finance Tracker](https://github.com/ShuraNix/Finance-tracker-app)** | Full-stack expense tracking application    | Node.js, Express, MongoDB, HTML, CSS, JS|
-| **More coming soon!**                                                  | Currently working on exciting new projects |                           |
+| Project                                                                | Description                                | Technologies                             |
+| ---------------------------------------------------------------------- | ------------------------------------------ | ---------------------------------------- |
+| **[Finance Tracker](https://github.com/ShuraNix/Finance-tracker-app)** | Full-stack expense tracking application    | Node.js, Express, MongoDB, HTML, CSS, JS |
+| **More coming soon!**                                                  | Currently working on exciting new projects |                                          |
 
 </div>
 
@@ -44,4 +44,3 @@ I like working out and playing Hollow Knight.
 **Discord**: [purenix](https://discordapp.com/users/purenix)
 
 </div>
-
