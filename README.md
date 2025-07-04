@@ -47,8 +47,3 @@ I like working out and playing Hollow Knight.
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShuraNix&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views">
-</p>
