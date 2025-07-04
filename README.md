@@ -1,4 +1,4 @@
-# Hi, I'm Ghaleb Almustafa! 👾
+# Hi, I'm Ghaleb Almustafa!
 
 I am an 18 year old developer passionate about pixel art, game design and web development.  
 Currently studying programming, working on personal projects, and open for commissions! <br>
@@ -16,7 +16,7 @@ When I'm not coding, you'll find me at the gym or playing Hollow Knight.
 
 ## 🎮 My Projects
 
-- **[Finance Tracker](https://github.com/ShuraNix/fitness-tracker)** - Web app to log workouts
+- **[Finance Tracker](https://github.com/ShuraNix/fitness-tracker)** - Web app that logs income and expenses
 
 <!-- - **[HK Mod](https://github.com/ShuraNix/hk-mod)** - Hollow Knight custom boss
 - **[Pixel Portfolio](https://shura-pixels.netlify.app)** - Gallery of my art -->
