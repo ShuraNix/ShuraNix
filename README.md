@@ -5,7 +5,7 @@ Currently studying programming, working on personal projects, and open for commi
 When I'm not coding, you'll find me at the gym or playing Hollow Knight.
 
 <p align="center">
-  <img src="/assets/HK.gif width="300" alt="Hollow Knight pixel art">
+  <img src="/assets/HK.gif" width="300" alt="Hollow Knight pixel art">
 </p>
 
 ## 🛠️ Languages & Tools
