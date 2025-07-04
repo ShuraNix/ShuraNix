@@ -32,7 +32,7 @@ I like working out and playing Hollow Knight.
 
 | Project                                                                | Description                                | Technologies              |
 | ---------------------------------------------------------------------- | ------------------------------------------ | ------------------------- |
-| **[Finance Tracker](https://github.com/ShuraNix/Finance-tracker-app)** | Full-stack expense tracking application    | Node.js, Express, MongoDB, HTML, CSS, JS|
+| **[Finance Tracker](https://github.com/ShuraNix/Finance-tracker-app)** | Full-stack expense/income tracking application    | Node.js, Express, MongoDB, HTML, CSS, JS|
 | **More coming soon!**                                                  | Currently working on exciting new projects |                           |
 
 </div>
