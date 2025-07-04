@@ -2,7 +2,7 @@
 
 I am an 18 year old developer passionate about pixel art, game design and web development.  
 Currently studying programming, working on personal projects, and open for commissions! <br>
-I like working out and Hollow Knight when I'm not coding.
+I like working out and playing Hollow Knight when I'm not coding.
 
 <p align="center">
   <img src="/assets/HKandH.gif" width="300" alt="Hollow Knight pixel art">
