@@ -1,4 +1,4 @@
-# Hi, I'm Ghaleb Almustafa! 👾
+# Hi, I'm Ghaleb Almustafa!
 
 **18-year-old developer** passionate about pixel art, game design, and web development.  
 Currently improving my skills through projects and open for commissions!  
@@ -25,7 +25,7 @@ I like working out and playing Hollow Knight.
   
 </div>
 
-## 🚀 Featured Projects
+## 🚀 My Projects
 
 <div align="center">
 
@@ -36,14 +36,12 @@ I like working out and playing Hollow Knight.
 
 </div>
 
-## 📬 Let's Connect
+## 📬 Contact Me
 
-<p align="center">
-  <a href="mailto:ghalebalmustafa123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://discordapp.com/users/purenix">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-</p>
+<div align="center" style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
+
+📧 **Email**: [ghalebalmustafa123@gmail.com](mailto:ghalebalmustafa123@gmail.com)  
+🎮 **Discord**: [purenix](https://discordapp.com/users/purenix)
+
+</div>
 
