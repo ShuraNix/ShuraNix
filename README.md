@@ -30,10 +30,11 @@ I like working out and playing Hollow Knight.
 
 <div align="center">
 
-| Project                                                                | Description                                | Technologies              |
-| ---------------------------------------------------------------------- | ------------------------------------------ | ------------------------- |
-| **[Finance Tracker](https://github.com/ShuraNix/Finance-tracker-app)** | Full-stack expense/income tracking application    | Node.js, Express, MongoDB, HTML, CSS, JS|
-| **More coming soon!**                                                  | Currently working on exciting new projects |                           |
+| Project                                                                | Description                                                      | Technologies                         |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------ |
+| **[Finance Tracker](https://github.com/ShuraNix/Finance-tracker-app)** | Full-stack expense/income tracking application                   | Node.js, Express, MongoDB            |
+| **[Anime Watchlist](https://github.com/ShuraNix/anime-watchlist)**     | Full-stack anime tracking application with Jikan API integration | Node.js, Express, MongoDB, Jikan API |
+| **More coming soon!**                                                  | Currently working on exciting new projects                       |                                      |
 
 </div>
 
@@ -45,4 +46,3 @@ I like working out and playing Hollow Knight.
 **Discord**: [purenix](https://discordapp.com/users/purenix)
 
 </div>
-
