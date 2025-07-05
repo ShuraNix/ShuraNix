@@ -1,4 +1,4 @@
-# Hi, I'm Ghaleb Almustafa!
+# Hi, I'm ShuraNix
 
 **18-year-old developer** passionate about pixel art, game design, and web development.  
 Currently improving my skills through projects and open for commissions!  
@@ -42,7 +42,7 @@ I like working out and playing Hollow Knight.
 
 <div align="center" style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
 
-**Email**: [ghalebalmustafa123@gmail.com](mailto:ghalebalmustafa123@gmail.com)  
+**Email**: [shuranix@gmail.com](mailto:shuranix@gmail.com)  
 **Discord**: [purenix](https://discordapp.com/users/purenix)
 
 </div>
