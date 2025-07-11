@@ -1,6 +1,6 @@
 # Hi, I'm ShuraNix
 
-**18-year-old developer** passionate about pixel art, game design, and web development.  
+**18 year old developer** passionate about pixel art, game design, and web development.  
 Currently improving my skills through projects and open for commissions!  
 I like working out and playing Hollow Knight.
 
@@ -34,7 +34,7 @@ I like working out and playing Hollow Knight.
 | ---------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------ |
 | **[Finance Tracker](https://github.com/ShuraNix/Finance-tracker-app)** | Full-stack expense/income tracking application                   | Node.js, Express, MongoDB            |
 | **[Anime Watchlist](https://github.com/ShuraNix/anime-watchlist)**     | Full-stack anime tracking application with Jikan API integration | Node.js, Express, MongoDB, Jikan API |
-| **More coming soon!**                                                  | Currently working on exciting new projects                       |                                      |
+| **More coming soon!**                                                  | Currently working on new projects                       |                                      |
 
 </div>
 
