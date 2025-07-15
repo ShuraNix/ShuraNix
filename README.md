@@ -14,7 +14,7 @@ I like working out and playing Hollow Knight.
 <div align="center">
   
 ### Web Development
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" title="HTML5, CSS3, JavaScript, TypeScript, React, Next.js" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" title="HTML5, CSS3, JavaScript, TypeScript, React" />
 
 ### Game Development
 
